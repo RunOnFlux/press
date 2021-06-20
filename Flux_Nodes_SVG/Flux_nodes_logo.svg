@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1594" height="324" viewBox="0 0 1594 324">
+  <defs>
+    <linearGradient id="linear-gradient" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e5e5e5"/>
+    </linearGradient>
+  </defs>
+  <g id="Flux_nodes_logo_1" transform="translate(18183 -9519)">
+    <g id="Group_2741" data-name="Group 2741" transform="translate(-146 288)">
+      <path id="Main" d="M133.82,2.813A130.82,130.82,0,1,1,3,133.633,130.82,130.82,0,0,1,133.82,2.813Z" transform="translate(-18040 9259.187)" fill="url(#linear-gradient)"/>
+      <g id="ZN" transform="translate(-18040 9259.187)">
+        <g id="Box_Top" data-name="Box Top">
+          <path id="Box_Left" data-name="Box Left" d="M114.734,61.318l19.173-11.1,19.108,11.1V83.525l-19.108,11.1-19.173-11.1V61.318Z" fill="#232220" fill-rule="evenodd"/>
+        </g>
+        <path id="Line" d="M133.931,120.4V84.352" fill="#36c9a5" stroke="#36c9a5" stroke-linecap="round" stroke-width="10" fill-rule="evenodd"/>
+        <g id="Box_Main" data-name="Box Main">
+          <path id="Box_Left-2" data-name="Box Left" d="M102.367,118.758l31.424-18.2,31.319,18.2v36.4l-31.319,18.2-31.424-18.2v-36.4Z" fill="#232220" fill-rule="evenodd"/>
+        </g>
+        <path id="Line-2" data-name="Line" d="M82.31,174.188l37.33-25.308" fill="#36c9a5" stroke="#36c9a5" stroke-linecap="round" stroke-width="10" fill-rule="evenodd"/>
+        <path id="Line-3" data-name="Line" d="M185.014,174.759l-36.9-25.926" fill="#36c9a5" stroke="#36c9a5" stroke-linecap="round" stroke-width="10" fill-rule="evenodd"/>
+        <g id="Box_Left-3" data-name="Box Left">
+          <path id="Box_Left-4" data-name="Box Left" d="M54.23,162.762l24.173-14,24.092,14v28l-24.092,14-24.173-14Z" fill="#232220" fill-rule="evenodd"/>
+        </g>
+        <g id="Box_Right" data-name="Box Right">
+          <path id="Box_Left-5" data-name="Box Left" d="M165.307,162.762l24.173-14,24.091,14v28l-24.091,14-24.173-14Z" fill="#232220" fill-rule="evenodd"/>
+        </g>
+        <path id="Line-4" data-name="Line" d="M90.925,182.058h85.827" fill="#36c9a5" stroke="#36c9a5" stroke-linecap="round" stroke-width="10" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <text id="FluxNodes" transform="translate(-17237 9779)" fill="#36c9a5" font-size="280" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="-0.05em"><tspan x="-647.732" y="0">Flux</tspan><tspan y="0" font-family="HelveticaNeue-Thin, 'Helvetica \33 5'" font-weight="200">Nodes</tspan></text>
+  </g>
+</svg>
